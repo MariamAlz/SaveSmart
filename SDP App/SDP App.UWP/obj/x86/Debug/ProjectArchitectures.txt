@@ -1,1 +1,1 @@
-C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App.UWP\SDP App.UWP.csproj;x86
+C:\Users\Mz3ab\OneDrive\Documents\GitHub\SaveSmart\SDP App\SDP App.UWP\SDP App.UWP.csproj;x86

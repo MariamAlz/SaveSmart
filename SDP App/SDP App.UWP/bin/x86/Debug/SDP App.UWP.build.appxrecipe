@@ -10,22 +10,22 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>ec0cc741-fd3e-485c-81be-68815c480690</PackageIdentityName>
     <PackageIdentityPublisher>CN=43d2e037-a038-4609-9bd3-0f60de28102f</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App.UWP\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Mz3ab\OneDrive\Documents\GitHub\SaveSmart\SDP App\SDP App.UWP\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App.UWP\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\Mz3ab\OneDrive\Documents\GitHub\SaveSmart\SDP App\SDP App.UWP\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App.UWP\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Mz3ab\OneDrive\Documents\GitHub\SaveSmart\SDP App\SDP App.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App.UWP\bin\x86\Debug\SDP App.UWP.exe">
+    <AppxPackagedFile Include="C:\Users\Mz3ab\OneDrive\Documents\GitHub\SaveSmart\SDP App\SDP App.UWP\bin\x86\Debug\SDP App.UWP.exe">
       <PackagePath>entrypoint\SDP App.UWP.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Mz3ab\.nuget\packages\newtonsoft.json\12.0.3\lib\netstandard2.0\Newtonsoft.Json.dll">
@@ -43,19 +43,19 @@
     <AppxPackagedFile Include="C:\Users\Mz3ab\.nuget\packages\xamarin.essentials\1.7.0\lib\uap10.0.16299\Xamarin.Essentials.dll">
       <PackagePath>Xamarin.Essentials.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mz3ab\.nuget\packages\xamarin.forms\5.0.0.2125\lib\uap10.0.16299\Xamarin.Forms.Core.dll">
+    <AppxPackagedFile Include="C:\Users\Mz3ab\.nuget\packages\xamarin.forms\5.0.0.2196\lib\uap10.0.16299\Xamarin.Forms.Core.dll">
       <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mz3ab\.nuget\packages\xamarin.forms\5.0.0.2125\lib\uap10.0.16299\Xamarin.Forms.Platform.UAP.dll">
+    <AppxPackagedFile Include="C:\Users\Mz3ab\.nuget\packages\xamarin.forms\5.0.0.2196\lib\uap10.0.16299\Xamarin.Forms.Platform.UAP.dll">
       <PackagePath>Xamarin.Forms.Platform.UAP.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mz3ab\.nuget\packages\xamarin.forms\5.0.0.2125\lib\uap10.0.16299\Xamarin.Forms.Platform.dll">
+    <AppxPackagedFile Include="C:\Users\Mz3ab\.nuget\packages\xamarin.forms\5.0.0.2196\lib\uap10.0.16299\Xamarin.Forms.Platform.dll">
       <PackagePath>Xamarin.Forms.Platform.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mz3ab\.nuget\packages\xamarin.forms\5.0.0.2125\lib\uap10.0.16299\Xamarin.Forms.Xaml.dll">
+    <AppxPackagedFile Include="C:\Users\Mz3ab\.nuget\packages\xamarin.forms\5.0.0.2196\lib\uap10.0.16299\Xamarin.Forms.Xaml.dll">
       <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App\bin\Debug\netstandard2.0\SDP App.dll">
+    <AppxPackagedFile Include="C:\Users\Mz3ab\OneDrive\Documents\GitHub\SaveSmart\SDP App\SDP App\bin\Debug\netstandard2.0\SDP App.dll">
       <PackagePath>SDP App.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Mz3ab\.nuget\packages\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
@@ -64,136 +64,136 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.19041.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mz3ab\.nuget\packages\xamarin.forms\5.0.0.2125\lib\uap10.0.16299\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Mz3ab\.nuget\packages\xamarin.forms\5.0.0.2196\lib\uap10.0.16299\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml">
       <PackagePath>Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App.UWP\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Mz3ab\OneDrive\Documents\GitHub\SaveSmart\SDP App\SDP App.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App.UWP\Assets\LargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Mz3ab\OneDrive\Documents\GitHub\SaveSmart\SDP App\SDP App.UWP\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App.UWP\Assets\LargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Mz3ab\OneDrive\Documents\GitHub\SaveSmart\SDP App\SDP App.UWP\Assets\LargeTile.scale-200.png">
       <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App.UWP\Assets\LargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Mz3ab\OneDrive\Documents\GitHub\SaveSmart\SDP App\SDP App.UWP\Assets\LargeTile.scale-400.png">
       <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App.UWP\Assets\SmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Mz3ab\OneDrive\Documents\GitHub\SaveSmart\SDP App\SDP App.UWP\Assets\SmallTile.scale-100.png">
       <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App.UWP\Assets\SmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Mz3ab\OneDrive\Documents\GitHub\SaveSmart\SDP App\SDP App.UWP\Assets\SmallTile.scale-200.png">
       <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App.UWP\Assets\SmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Mz3ab\OneDrive\Documents\GitHub\SaveSmart\SDP App\SDP App.UWP\Assets\SmallTile.scale-400.png">
       <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App.UWP\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Mz3ab\OneDrive\Documents\GitHub\SaveSmart\SDP App\SDP App.UWP\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App.UWP\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Mz3ab\OneDrive\Documents\GitHub\SaveSmart\SDP App\SDP App.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App.UWP\Assets\SplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Mz3ab\OneDrive\Documents\GitHub\SaveSmart\SDP App\SDP App.UWP\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App.UWP\Assets\Square150x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Mz3ab\OneDrive\Documents\GitHub\SaveSmart\SDP App\SDP App.UWP\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App.UWP\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Mz3ab\OneDrive\Documents\GitHub\SaveSmart\SDP App\SDP App.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App.UWP\Assets\Square150x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Mz3ab\OneDrive\Documents\GitHub\SaveSmart\SDP App\SDP App.UWP\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Mz3ab\OneDrive\Documents\GitHub\SaveSmart\SDP App\SDP App.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Mz3ab\OneDrive\Documents\GitHub\SaveSmart\SDP App\SDP App.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Mz3ab\OneDrive\Documents\GitHub\SaveSmart\SDP App\SDP App.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App.UWP\Assets\Square44x44Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Mz3ab\OneDrive\Documents\GitHub\SaveSmart\SDP App\SDP App.UWP\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App.UWP\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Mz3ab\OneDrive\Documents\GitHub\SaveSmart\SDP App\SDP App.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App.UWP\Assets\Square44x44Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Mz3ab\OneDrive\Documents\GitHub\SaveSmart\SDP App\SDP App.UWP\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App.UWP\Assets\Square44x44Logo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Mz3ab\OneDrive\Documents\GitHub\SaveSmart\SDP App\SDP App.UWP\Assets\Square44x44Logo.targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App.UWP\Assets\Square44x44Logo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Mz3ab\OneDrive\Documents\GitHub\SaveSmart\SDP App\SDP App.UWP\Assets\Square44x44Logo.targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App.UWP\Assets\Square44x44Logo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Mz3ab\OneDrive\Documents\GitHub\SaveSmart\SDP App\SDP App.UWP\Assets\Square44x44Logo.targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App.UWP\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Mz3ab\OneDrive\Documents\GitHub\SaveSmart\SDP App\SDP App.UWP\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App.UWP\Assets\StoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Mz3ab\OneDrive\Documents\GitHub\SaveSmart\SDP App\SDP App.UWP\Assets\StoreLogo.scale-200.png">
       <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App.UWP\Assets\StoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Mz3ab\OneDrive\Documents\GitHub\SaveSmart\SDP App\SDP App.UWP\Assets\StoreLogo.scale-400.png">
       <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App.UWP\Assets\Wide310x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Mz3ab\OneDrive\Documents\GitHub\SaveSmart\SDP App\SDP App.UWP\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App.UWP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Mz3ab\OneDrive\Documents\GitHub\SaveSmart\SDP App\SDP App.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App.UWP\Assets\Wide310x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Mz3ab\OneDrive\Documents\GitHub\SaveSmart\SDP App\SDP App.UWP\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App.UWP\xamarin_logo.png">
+    <AppxPackagedFile Include="C:\Users\Mz3ab\OneDrive\Documents\GitHub\SaveSmart\SDP App\SDP App.UWP\xamarin_logo.png">
       <PackagePath>xamarin_logo.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App.UWP\icon_about.png">
+    <AppxPackagedFile Include="C:\Users\Mz3ab\OneDrive\Documents\GitHub\SaveSmart\SDP App\SDP App.UWP\icon_about.png">
       <PackagePath>icon_about.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App.UWP\icon_feed.png">
+    <AppxPackagedFile Include="C:\Users\Mz3ab\OneDrive\Documents\GitHub\SaveSmart\SDP App\SDP App.UWP\icon_feed.png">
       <PackagePath>icon_feed.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App.UWP\bin\x86\Debug\SDP App.UWP.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Mz3ab\OneDrive\Documents\GitHub\SaveSmart\SDP App\SDP App.UWP\bin\x86\Debug\SDP App.UWP.xr.xml">
       <PackagePath>SDP App.UWP.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App.UWP\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\Mz3ab\OneDrive\Documents\GitHub\SaveSmart\SDP App\SDP App.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App.UWP\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\Mz3ab\OneDrive\Documents\GitHub\SaveSmart\SDP App\SDP App.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\\redist\Debug\x86\ucrtbased.dll">
@@ -205,10 +205,10 @@
     <AppxPackagedFile Include="C:\Users\Mz3ab\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\lib\uap10.0\Microsoft.UI.Xaml.winmd">
       <PackagePath>WinMetadata\Microsoft.UI.Xaml.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App.UWP\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Mz3ab\OneDrive\Documents\GitHub\SaveSmart\SDP App\SDP App.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App.UWP\bin\x86\Debug\Core\SDP App.UWP.exe">
+    <AppxPackagedFile Include="C:\Users\Mz3ab\OneDrive\Documents\GitHub\SaveSmart\SDP App\SDP App.UWP\bin\x86\Debug\Core\SDP App.UWP.exe">
       <PackagePath>SDP App.UWP.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

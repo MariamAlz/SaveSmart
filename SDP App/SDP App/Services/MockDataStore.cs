@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using TPLinkSmartDevices;
+using TPLinkSmartDevices.Devices;
 
 namespace SDP_App.Services
 {
@@ -23,6 +24,20 @@ namespace SDP_App.Services
 				new Dev { Id = Guid.NewGuid().ToString(), Text = "Smart Plug 6", Description="This is a smart plug description." }
 			};
 		}
+
+		/*public async Task<List<TPLinkSmartDevice>> DiscoverDeviceAsync()
+		{
+			var discoveredDevices = await new TPLinkDiscovery().Discover();
+
+			foreach (var device in discoveredDevices)
+			{
+				if (device is TPLinkSmartPlug plug)
+				{
+					await plug.SetPoweredOn(true);
+				}
+			}
+			return discoveredDevices;
+		}*/
 
 		public async Task<bool> AddDeviceAsync(Dev device)
 		{

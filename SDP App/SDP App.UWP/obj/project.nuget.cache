@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "0w5YB7Pyu1kRg8r24RuTzzjYSU6Y/vb+K9/9xANT1LK3wPcR3Qf//m9Ui6NVmWHB0myWh8KsvmisqbRoDwguXw==",
+  "dgSpecHash": "4SkD9df1gYW5xoqKqjeRsk3D7IWhD413kPuPx/1xpBR8xeK8X27tfaxudMAGBG9ypxAUQaaUNhjSf2Zwl11+Ow==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mz3ab\\OneDrive\\Documents\\GitHub\\SaveSmart\\SDP App\\SDP App.UWP\\SDP App.UWP.csproj",
   "expectedPackageFiles": [
@@ -30,6 +30,13 @@
     "C:\\Users\\Mz3ab\\.nuget\\packages\\runtime.win10-x86.microsoft.net.native.sharedlibrary\\2.2.8-rel-30601-02\\runtime.win10-x86.microsoft.net.native.sharedlibrary.2.2.8-rel-30601-02.nupkg.sha512",
     "C:\\Users\\Mz3ab\\.nuget\\packages\\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\\2.2.13\\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk.2.2.13.nupkg.sha512",
     "C:\\Users\\Mz3ab\\.nuget\\packages\\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\\6.2.13\\runtime.win10-x86.microsoft.netcore.universalwindowsplatform.6.2.13.nupkg.sha512",
+    "C:\\Users\\Mz3ab\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
+    "C:\\Users\\Mz3ab\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
+    "C:\\Users\\Mz3ab\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "C:\\Users\\Mz3ab\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.4\\sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\Mz3ab\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.0.4\\sqlitepclraw.provider.e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\Mz3ab\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Mz3ab\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
     "C:\\Users\\Mz3ab\\.nuget\\packages\\tplink-smartdevices\\2.0.0\\tplink-smartdevices.2.0.0.nupkg.sha512",
     "C:\\Users\\Mz3ab\\.nuget\\packages\\win2d.uwp\\1.20.0\\win2d.uwp.1.20.0.nupkg.sha512",
     "C:\\Users\\Mz3ab\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",

@@ -5,6 +5,7 @@ using System.Collections.ObjectModel;
 using System.Diagnostics;
 using System.Threading.Tasks;
 using Xamarin.Forms;
+using TPLinkSmartDevices;
 
 namespace SDP_App.ViewModels
 {
@@ -14,6 +15,7 @@ namespace SDP_App.ViewModels
 		public ObservableCollection<Dev> Devices { get; }
 		public Command LoadDevicesCommand { get; }
 		public Command AddDeviceCommand { get; }
+		//public Command DiscoverDeviceCommand { get; }
 		public Command<Dev> DeviceTapped { get; }
 
 		public DevicesViewModel()
@@ -35,6 +37,7 @@ namespace SDP_App.ViewModels
 			{
 				Devices.Clear();
 				var devices = await DataStore.GetDevicesAsync(true);
+
 				foreach (var device in devices)
 				{
 					Devices.Add(device);
@@ -49,6 +52,7 @@ namespace SDP_App.ViewModels
 				IsBusy = false;
 			}
 		}
+
 		public void OnAppearing()
 		{
 			IsBusy = true;
@@ -67,6 +71,7 @@ namespace SDP_App.ViewModels
 
 		private async void OnAddDevice(object obj)
 		{
+			//var list = await DataStore.DiscoverDeviceAsync();
 			await Shell.Current.GoToAsync(nameof(NewDevicePage));
 		}
 
