@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QS7utLD1VGh81ii4W2VZF568h70mhiduZlf6KXxtq0CJGLUxB4S86FJpbMdEWkWbbfmF39rM9INK9dR6lQOuLg==",
+  "dgSpecHash": "pmDicVaynCLw4v9HrVL3Euv+qXO9yuE6yQyAh05Lcmefsvgkc4INwUCHmHC7Paeo5TBLVr70DrSQueKDrlLyYA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mz3ab\\source\\repos\\SDP App\\SDP App\\SDP App\\SDP App.csproj",
+  "projectFilePath": "C:\\Users\\Mz3ab\\OneDrive\\Documents\\GitHub\\SaveSmart\\SDP App\\SDP App\\SDP App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mz3ab\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Mz3ab\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

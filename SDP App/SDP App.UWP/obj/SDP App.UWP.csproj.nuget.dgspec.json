@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mz3ab\\source\\repos\\SDP App\\SDP App\\SDP App.UWP\\SDP App.UWP.csproj": {}
+    "C:\\Users\\Mz3ab\\OneDrive\\Documents\\GitHub\\SaveSmart\\SDP App\\SDP App.UWP\\SDP App.UWP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mz3ab\\source\\repos\\SDP App\\SDP App\\SDP App.UWP\\SDP App.UWP.csproj": {
+    "C:\\Users\\Mz3ab\\OneDrive\\Documents\\GitHub\\SaveSmart\\SDP App\\SDP App.UWP\\SDP App.UWP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mz3ab\\source\\repos\\SDP App\\SDP App\\SDP App.UWP\\SDP App.UWP.csproj",
+        "projectUniqueName": "C:\\Users\\Mz3ab\\OneDrive\\Documents\\GitHub\\SaveSmart\\SDP App\\SDP App.UWP\\SDP App.UWP.csproj",
         "projectName": "SDP App.UWP",
-        "projectPath": "C:\\Users\\Mz3ab\\source\\repos\\SDP App\\SDP App\\SDP App.UWP\\SDP App.UWP.csproj",
+        "projectPath": "C:\\Users\\Mz3ab\\OneDrive\\Documents\\GitHub\\SaveSmart\\SDP App\\SDP App.UWP\\SDP App.UWP.csproj",
         "packagesPath": "C:\\Users\\Mz3ab\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mz3ab\\source\\repos\\SDP App\\SDP App\\SDP App.UWP\\obj\\",
+        "outputPath": "C:\\Users\\Mz3ab\\OneDrive\\Documents\\GitHub\\SaveSmart\\SDP App\\SDP App.UWP\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -35,8 +35,8 @@
         "frameworks": {
           "uap10.0.16299": {
             "projectReferences": {
-              "C:\\Users\\Mz3ab\\source\\repos\\SDP App\\SDP App\\SDP App\\SDP App.csproj": {
-                "projectPath": "C:\\Users\\Mz3ab\\source\\repos\\SDP App\\SDP App\\SDP App\\SDP App.csproj"
+              "C:\\Users\\Mz3ab\\OneDrive\\Documents\\GitHub\\SaveSmart\\SDP App\\SDP App\\SDP App.csproj": {
+                "projectPath": "C:\\Users\\Mz3ab\\OneDrive\\Documents\\GitHub\\SaveSmart\\SDP App\\SDP App\\SDP App.csproj"
               }
             }
           }
@@ -93,14 +93,14 @@
         }
       }
     },
-    "C:\\Users\\Mz3ab\\source\\repos\\SDP App\\SDP App\\SDP App\\SDP App.csproj": {
+    "C:\\Users\\Mz3ab\\OneDrive\\Documents\\GitHub\\SaveSmart\\SDP App\\SDP App\\SDP App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mz3ab\\source\\repos\\SDP App\\SDP App\\SDP App\\SDP App.csproj",
+        "projectUniqueName": "C:\\Users\\Mz3ab\\OneDrive\\Documents\\GitHub\\SaveSmart\\SDP App\\SDP App\\SDP App.csproj",
         "projectName": "SDP App",
-        "projectPath": "C:\\Users\\Mz3ab\\source\\repos\\SDP App\\SDP App\\SDP App\\SDP App.csproj",
+        "projectPath": "C:\\Users\\Mz3ab\\OneDrive\\Documents\\GitHub\\SaveSmart\\SDP App\\SDP App\\SDP App.csproj",
         "packagesPath": "C:\\Users\\Mz3ab\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mz3ab\\source\\repos\\SDP App\\SDP App\\SDP App\\obj\\",
+        "outputPath": "C:\\Users\\Mz3ab\\OneDrive\\Documents\\GitHub\\SaveSmart\\SDP App\\SDP App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uTRrihsf4jOOIgp9YktRGvFGTVwgcWEECeMH1hZaqAn9ZYmwH46cgvEMj2dOeWJlDVAkKDCUx7DXNrSgDw0HMw==",
+  "dgSpecHash": "0w5YB7Pyu1kRg8r24RuTzzjYSU6Y/vb+K9/9xANT1LK3wPcR3Qf//m9Ui6NVmWHB0myWh8KsvmisqbRoDwguXw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mz3ab\\source\\repos\\SDP App\\SDP App\\SDP App.UWP\\SDP App.UWP.csproj",
+  "projectFilePath": "C:\\Users\\Mz3ab\\OneDrive\\Documents\\GitHub\\SaveSmart\\SDP App\\SDP App.UWP\\SDP App.UWP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mz3ab\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Mz3ab\\.nuget\\packages\\microsoft.net.native.compiler\\2.2.11-rel-30601-02\\microsoft.net.native.compiler.2.2.11-rel-30601-02.nupkg.sha512",

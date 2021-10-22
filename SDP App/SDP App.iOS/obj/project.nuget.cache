@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uA4p4UmpiTKIqLPH45UEH3m0UcV2HtbxAXbwr0Enlk9QMegm7FLBwjnkHPijdk7hQiYXKo+ZM1ujTycUzTrkfw==",
+  "dgSpecHash": "axs0UWRnYqLwRJMPeo36vRZErvLQKyN2iCTYWjYTriymBbtm7nSAHc4vmbnsDL7q6DDFMXNWdjs2JJExt1zsXQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mz3ab\\source\\repos\\SDP App\\SDP App\\SDP App.iOS\\SDP App.iOS.csproj",
+  "projectFilePath": "C:\\Users\\Mz3ab\\OneDrive\\Documents\\GitHub\\SaveSmart\\SDP App\\SDP App.iOS\\SDP App.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mz3ab\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Mz3ab\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
