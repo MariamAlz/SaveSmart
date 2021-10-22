@@ -12,7 +12,7 @@
     <ContentPage.Resources>
         <ResourceDictionary>
             <Color x:Key="Accent">#96d1ff</Color>
-        </ResourceDictionary>
+		</ResourceDictionary>
     </ContentPage.Resources>
 
     <Grid>
@@ -23,14 +23,14 @@
         <StackLayout BackgroundColor= "White" VerticalOptions="FillAndExpand" HorizontalOptions="Fill">
             <StackLayout Orientation="Horizontal" HorizontalOptions="Center" VerticalOptions="Center">
                 <ContentView Padding="0,40,0,40" VerticalOptions="FillAndExpand">
-                    <Image Source="kuteam_logo.png" VerticalOptions="Center" HeightRequest="64" />
+                    <Image Source="kuteam_logo.png" VerticalOptions="Center" HeightRequest="100" />
                 </ContentView>
             </StackLayout>
         </StackLayout>
         <ScrollView Grid.Row="1">
             <StackLayout Orientation="Vertical" Padding="30,24,30,24" Spacing="10">
-                <Label Text="SaveSmart" FontSize="Title"/>
-				<Label Text="SaveSmart is a monitoring and recommendation system designed for the KU smart home at the SDME competition site." FontSize="16" Padding="0,0,0,0"/>
+				<Label Text="SaveSmart" FontSize="Title" FontAttributes="Bold" TextColor="{StaticResource Primary}" HorizontalTextAlignment="Center"/>
+				<Label Text="SaveSmart is a monitoring and recommendation system designed for the KU smart home at the SDME competition site." FontSize="16" HorizontalTextAlignment="Center" Padding="0,0,0,0"/>
 			</StackLayout>
         </ScrollView>
     </Grid>

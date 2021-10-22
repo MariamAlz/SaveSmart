@@ -332,3 +332,15 @@ ASALocalRun/
 
 # Local History for Visual Studio
 .localhistory/
+.vs/SDP App/v16/.suo
+SDP App/SDP App.Android/bin/Debug/SDP App.dll
+SDP App/SDP App.Android/bin/Debug/SDP App.pdb
+SDP App/SDP App.Android/obj/Debug/110/_TelemetryProps
+SDP App/SDP App.Android/obj/Debug/110/android/assets/SDP App.dll
+SDP App/SDP App.Android/obj/Debug/110/android/assets/SDP App.pdb
+SDP App/SDP App.Android/obj/Debug/110/SDP App.Android.csproj.AssemblyReference.cache
+SDP App/SDP App/bin/Debug/netstandard2.0/SDP App.dll
+SDP App/SDP App/bin/Debug/netstandard2.0/SDP App.pdb
+SDP App/SDP App/obj/Debug/netstandard2.0/SDP App.csproj.AssemblyReference.cache
+SDP App/SDP App/obj/Debug/netstandard2.0/SDP App.dll
+SDP App/SDP App/obj/Debug/netstandard2.0/SDP App.pdb

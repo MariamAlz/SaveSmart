@@ -20,24 +20,36 @@
                 SelectionMode="None">
             <CollectionView.ItemTemplate>
                 <DataTemplate>
-                    <StackLayout Padding="10" x:DataType="model:Dev">
-						<Label Text="{Binding Text}"
+					<Grid Padding="10" x:DataType="model:Dev">
+						<Grid.RowDefinitions>
+							<RowDefinition />
+							<RowDefinition />
+						</Grid.RowDefinitions>
+						<Grid.ColumnDefinitions>
+							<ColumnDefinition />
+							<ColumnDefinition />
+						</Grid.ColumnDefinitions>
+						<Label Grid.Column="0" Grid.Row="0" Text="{Binding Text}" FontAttributes="Bold" TextColor="{StaticResource Primary}"
 							LineBreakMode="NoWrap"
                             Style="{DynamicResource ListItemTextStyle}" 
-                            FontSize="16" />
-                        <Label Text="{Binding Description}" 
+                            FontSize="16"
+                            VerticalOptions="Center" />
+						<Label Grid.Column="0" Grid.Row="1" Text="{Binding Description}" 
                             LineBreakMode="NoWrap"
                             Style="{DynamicResource ListItemDetailTextStyle}"
-                            FontSize="13" />
-                        <StackLayout.GestureRecognizers>
-                            <TapGestureRecognizer 
+                            FontSize="13"
+                            VerticalOptions="Center" />
+						<Switch Grid.Column="1" IsToggled="True" Toggled="OnToggled"
+							    VerticalOptions="Center" />
+							<Grid.GestureRecognizers>
+							<TapGestureRecognizer 
                                 NumberOfTapsRequired="1"
                                 Command="{Binding Source={RelativeSource AncestorType={x:Type local:DevicesViewModel}}, Path=DeviceTapped}"		
                                 CommandParameter="{Binding .}">
-                            </TapGestureRecognizer>
-                        </StackLayout.GestureRecognizers>
-                    </StackLayout>
-                </DataTemplate>
+							</TapGestureRecognizer>
+						</Grid.GestureRecognizers>
+					</Grid>
+				</DataTemplate>
             </CollectionView.ItemTemplate>
         </CollectionView>
     </RefreshView>

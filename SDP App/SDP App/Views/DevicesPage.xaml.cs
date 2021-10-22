@@ -28,5 +28,9 @@ namespace SDP_App.Views
 			base.OnAppearing();
 			_viewModel.OnAppearing();
 		}
+		void OnToggled(object sender, ToggledEventArgs e)
+		{
+			// Perform an action after examining e.Value
+		}
 	}
 }
