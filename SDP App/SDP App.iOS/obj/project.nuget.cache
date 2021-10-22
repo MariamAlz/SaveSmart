@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "uA4p4UmpiTKIqLPH45UEH3m0UcV2HtbxAXbwr0Enlk9QMegm7FLBwjnkHPijdk7hQiYXKo+ZM1ujTycUzTrkfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mz3ab\\source\\repos\\SDP App\\SDP App\\SDP App.iOS\\SDP App.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mz3ab\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Mz3ab\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Mz3ab\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Mz3ab\\.nuget\\packages\\tplink-smartdevices\\2.0.0\\tplink-smartdevices.2.0.0.nupkg.sha512",
+    "C:\\Users\\Mz3ab\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Mz3ab\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

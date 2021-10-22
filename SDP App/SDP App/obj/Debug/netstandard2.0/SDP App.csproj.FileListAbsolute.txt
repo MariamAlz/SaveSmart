@@ -1,0 +1,19 @@
+C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App\bin\Debug\netstandard2.0\SDP App.deps.json
+C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App\bin\Debug\netstandard2.0\SDP App.dll
+C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App\bin\Debug\netstandard2.0\ref\SDP App.dll
+C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App\bin\Debug\netstandard2.0\SDP App.pdb
+C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App\obj\Debug\netstandard2.0\Views\DeviceDetailPage.xaml.g.cs
+C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App\obj\Debug\netstandard2.0\Views\DevicesPage.xaml.g.cs
+C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App\obj\Debug\netstandard2.0\Views\NewDevicePage.xaml.g.cs
+C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App\obj\Debug\netstandard2.0\SDP App.AssemblyInfoInputs.cache
+C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App\obj\Debug\netstandard2.0\SDP App.AssemblyInfo.cs
+C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App\obj\Debug\netstandard2.0\SDP App.csproj.CoreCompileInputs.cache
+C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App\obj\Debug\netstandard2.0\SDP App.dll
+C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App\obj\Debug\netstandard2.0\ref\SDP App.dll
+C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App\obj\Debug\netstandard2.0\SDP App.pdb
+C:\Users\Mz3ab\source\repos\SDP App\SDP App\SDP App\obj\Debug\netstandard2.0\SDP App.csproj.AssemblyReference.cache
