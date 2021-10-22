@@ -40,7 +40,8 @@
 	<TabBar>
         <ShellContent Title="Home" Icon="icon_about.png" Route="HomePage" ContentTemplate="{DataTemplate local:HomePage}" />
         <ShellContent Title="Devices" Icon="icon_feed.png" ContentTemplate="{DataTemplate local:DevicesPage}" />
-    </TabBar>
+		<ShellContent Title="Recommendations" Icon="icon_feed.png" ContentTemplate="{DataTemplate local:RecommendationsPage}" />
+	</TabBar>
 
     <!--
         If you would like to navigate to this content you can do so by calling

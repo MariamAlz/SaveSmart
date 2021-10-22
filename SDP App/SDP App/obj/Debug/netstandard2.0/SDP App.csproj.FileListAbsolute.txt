@@ -36,3 +36,4 @@ C:\Users\Mz3ab\OneDrive\Documents\GitHub\SaveSmart\SDP App\SDP App\obj\Debug\net
 C:\Users\Mz3ab\OneDrive\Documents\GitHub\SaveSmart\SDP App\SDP App\obj\Debug\netstandard2.0\SDP App.dll
 C:\Users\Mz3ab\OneDrive\Documents\GitHub\SaveSmart\SDP App\SDP App\obj\Debug\netstandard2.0\ref\SDP App.dll
 C:\Users\Mz3ab\OneDrive\Documents\GitHub\SaveSmart\SDP App\SDP App\obj\Debug\netstandard2.0\SDP App.pdb
+C:\Users\Mz3ab\OneDrive\Documents\GitHub\SaveSmart\SDP App\SDP App\obj\Debug\netstandard2.0\Views\RecommendationsPage.xaml.g.cs
