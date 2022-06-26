@@ -1,0 +1,6 @@
+*.assembly linguist-detectable=false
+*.pawn linguist-detectable=false
+*.pascal linguist-detectable=false
+*.assembly linguist-detectable=false
+*.AIDL linguist-detectable=false
+*.shell linguist-detectable=false
